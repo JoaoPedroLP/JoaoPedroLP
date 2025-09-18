@@ -16,9 +16,9 @@
   <br>
   - 🌱 Estou sempre aprendendo sobre novas técnicas de modelagem e ferramentas de visualização.
   <br>
-  - 📫 Como me encontrar: <strong>seu.email@exemplo.com</strong>
+  - 📫 Como me encontrar: <strong>jpereira429@gmail.com</strong>
   <br>
-  - 📄 Conheça minha trajetória profissional no meu <a href="[LINK_PARA_SEU_LINKEDIN]">LinkedIn</a>.
+  - 📄 Conheça minha trajetória profissional no meu <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-lucena-pereira-012371212/">LinkedIn</a>.
 </p>
 
 ---
