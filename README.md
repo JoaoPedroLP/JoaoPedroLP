@@ -35,19 +35,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/JoaoPedroLP/DuckDB-Kafka-Real-Time-Analytics"><strong>Pipeline de Dados em Tempo Real</strong></a></td>
+      <td><a href="[https://github.com/JoaoPedroLP/DuckDB-Kafka-Real-Time-Analytics](https://github.com/JoaoPedroLP/Data-Engineer-Project)"><strong>Pipeline de Dados em Tempo Real</strong></a></td>
       <td>Projeto do MBA para análise de streaming de dados em tempo real com Apache Kafka e DuckDB.</td>
       <td><code>Python</code> <code>Kafka</code> <code>DuckDB</code> <code>Pandas</code></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JoaoPedroLP/nba-salary-analysis"><strong>Análise Salarial na NBA (EDA)</strong></a></td>
+      <td><a href="[https://github.com/JoaoPedroLP/nba-salary-analysis](https://github.com/JoaoPedroLP/Machine-Learning)"><strong>Análise Salarial na NBA (EDA)</strong></a></td>
       <td>Análise exploratória de dados sobre a correlação entre desempenho de jogadores e seus salários.</td>
       <td><code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Jupyter</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JoaoPedroLP/IoT-Data-Logger-ESP32"><strong>Coletor de Dados IoT com ESP32</strong></a></td>
-      <td>Sistema embarcado para coletar dados de sensores (temperatura, umidade) e enviá-los para análise.</td>
-      <td><code>C++ (Arduino)</code> <code>ESP32</code> <code>Power BI</code></td>
     </tr>
   </tbody>
 </table>
