@@ -95,7 +95,7 @@
 </p>
 
 <p align="left">
-  <strong>Hardware e IoT (Meu Diferencial):</strong>
+  <strong>Hardware e IoT:</strong>
   <br>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
